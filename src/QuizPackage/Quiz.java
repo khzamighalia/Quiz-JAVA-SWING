@@ -607,6 +607,7 @@ public class Quiz extends JFrame {
 		                            QZ.playSound("C:\\Youcode\\QuizV1\\gameover.wav");
 
 		                    JOptionPane.showMessageDialog(null, "Time's Up :(");
+		                
 
 		                    System.exit(0);
 		                }
